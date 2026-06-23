@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield Container promoting safety & structure -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,16 C68,20 78,22 84,28 Q88,60 54,92 Q20,60 24,28 C30,22 40,20 54,16 Z" />
+    <!-- Dark Blue inner Shield -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M54,22 C65,25 73,27 78,32 Q81.5,58 54,84 Q26.5,58 30,32 C35,27 43,25 54,22 Z" />
+    <!-- Main open book vector -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,64 Q50,60 40,61 L40,43 Q50,42 54,46 L54,64 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,64 Q58,60 68,61 L68,43 Q58,42 54,46 L54,64 Z" />
+    <!-- Educational star of wisdom -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,28 L56,33 L61,33 L57,36 L58,41 L54,38 L50,41 L51,36 L47,33 L52,33 Z" />
+</vector>

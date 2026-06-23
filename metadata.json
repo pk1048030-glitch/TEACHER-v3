@@ -1,0 +1,6 @@
+{
+  "name": "Teacher Base Academy",
+  "description": "Educational Super App for teacher training, student learning (Nursery to Class 5), AI lesson planning, worksheets, and interactive quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
